@@ -27,6 +27,8 @@ for 2 minutes)
 
 PFA Class Diagram for the Solution.
 
+Code is inside `HospitalScheduler.java` class.
+
 [ClassDiagram.pdf](https://github.com/Sukanya912/HospitalEmergencyWardSimulation-/files/10716952/ClassDiagram.pdf)
 
 <img width="1010" alt="Screenshot 2023-02-13 at 12 30 31 AM" src="https://user-images.githubusercontent.com/9414182/218331322-86639624-08eb-4b27-a120-dc320e11c41a.png">
