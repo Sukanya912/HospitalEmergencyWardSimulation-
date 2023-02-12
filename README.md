@@ -24,3 +24,7 @@ After 5 minutes, Output: “Doctor 1 is attending Patient: 2”
 
 After 10 minutes, Output: “Doctor: 1 is attending Patient: 2” (Re-examine from the beginning i.e.
 for 2 minutes) 
+
+PFA Class Diagram for the Solution.
+
+[ClassDiagram.pdf](https://github.com/Sukanya912/HospitalEmergencyWardSimulation-/files/10716952/ClassDiagram.pdf)
